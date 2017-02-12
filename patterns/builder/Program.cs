@@ -14,12 +14,4 @@ namespace builder
             Console.Read();
         }
     }
-
-    public class Saloon : AbstractCar
-    {
-        public Saloon()
-        {
-            
-        }
-    }
 }
